@@ -57,6 +57,34 @@ O **Legis** é um sistema desktop que desenvolvi para resolver uma dor real da a
 - **Threading seguro:** uso disciplinado de QThread com proteção contra condições de corrida na interface.
 
 
+
+---
+
+## 🖥️ Interface do Sistema
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Tela de Login</b><br/><br/>
+      <img src="01-login.png" alt="Login" width="320"/>
+    </td>
+    <td align="center" width="50%">
+      <b>Dashboard — Visão Geral</b><br/><br/>
+      <img src="02-dashboard.png" alt="Dashboard" width="480"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>Gestão de Documentos com IA</b><br/><br/>
+      <img src="03-documentos.png" alt="Documentos" width="480"/>
+    </td>
+    <td align="center" width="50%">
+      <b>Módulos do Sistema</b><br/><br/>
+      <img src="04-menu.png" alt="Menu" width="220"/>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 👤 Autor
